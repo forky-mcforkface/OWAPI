@@ -6,7 +6,7 @@ authors = ["Your Name <you@example.com>"]
 
 [tool.poetry.dependencies]
 python = ">=3.6"
-aiohttp = "==3.5.4"
+aiohttp = "==3.7.4"
 aioredis = "==1.2.0"
 asphalt = {git = "https://github.com/asphalt-framework/asphalt.git"}
 asphalt-redis = "==2.1.1"
